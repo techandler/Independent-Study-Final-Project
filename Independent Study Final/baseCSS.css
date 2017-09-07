@@ -1,0 +1,114 @@
+body {
+  background-color: #f1f0da;
+  font-family: "Georgia", "Palatino";
+  color: #000000;
+}
+
+hr{
+  border-color: #000;
+  background-color: #113ae8;
+}
+
+a {
+  text-decoration-color: #000000;
+}
+
+.menu {
+  position: fixed;
+  border: 2px solid #f10911;
+  bottom: 10px;
+  right: 10px;
+  background-color: #36f109;
+}
+
+.back {
+  position: fixed;
+  border: 2px solid #f10911;
+  bottom: 40px;
+  right: 10px;
+  background-color: #36f109;
+}
+
+.plyrslc {
+  position: fixed;
+  border: 2px solid #f10911;
+  bottom: 70px;
+  right: 10px;
+  background-color: #36f109;
+}
+
+#secret {
+  position: fixed;
+  border: 3px solid #f1f0da;
+  bottom: 10px;
+  left: 10px;
+}
+
+#secret2 {
+  position: fixed;
+  border: 3px solid #FFFFFF;
+  top: 10px;
+  left: 10px;
+}
+
+#secret3 {
+  position: absolute;
+  border: 3px solid #c8b7a3;
+  top: 685px;
+  right: 710px;
+}
+
+
+
+.desc {
+  font-size: 20px;
+  color: #000000;
+  text-align: center;
+}
+
+.start {
+  font-size: 64px;
+  color: #09f116;
+}
+
+#python, #js, #html, #css, #sql, #ruby, #tools {
+  font-size: 28px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.code {
+  text-align: center;
+}
+
+.space {
+  visibility: hidden;
+  height: 20px;
+}
+
+.pics {
+  height: 60%;
+  width: 49%;
+  margin: auto;
+  border: 1px solid #000000;
+}
+
+.cap {
+  font-size: 32px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.comment {
+  font-size: 12px;
+}
+
+.game {
+  margin: auto;
+}
+
+.oolig {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
